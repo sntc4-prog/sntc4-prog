@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @sntc4-prog
 - 👀 I’m interested in development in the Java programming language, new frameworks and utilities, design and architecture of modern software
 - 🌱 I’m currently learning spring framework, docker, kubernetes, zeebe
-- 📫 How to reach me:
-- Email: egorborisovzypo@gmail.com
-- vk.com: vk.com/arthd55
 
 <!---
 sntc4-prog/sntc4-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
